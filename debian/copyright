@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Source: <url://example.com>
-Upstream-Name: nightfox-nvim
-Upstream-Contact: <preferred name and address to reach the upstream project>
+Source: https://github.com/EdenEast/nightfox.nvim
+Upstream-Name: nightfox.nvim
+Upstream-Contact: edenofest@gmail.com
 
 Files: *
 Copyright: 2021, James Simpson
